@@ -1,0 +1,26 @@
+SAMS5,SSD,189.99,1,Solid state hard-drive,image/samsun850.jpg
+IJU3E,Sound card,389.99,7,HiFi sound card,image/sound.jpg
+20GEA,Sony a6000 ,799.99,8,Sony a6000 mirrorless professional,image/sony.jpg
+REG2F,Samsung OLEG,2449.99,8,Samsung OLEG TV,image/samsungoleg.jpg
+56DSS,RGB pc case,189.99,20,PC case with RGB capbilties.,image/tower4.jpg
+PUPP34,Puppy,9.9999999E7,1,,image/puppy.jpg
+PUCBS,puppy,5000.0,2,nice puppy,image/puppy.jpg
+324GF,PSU ,67.21,17,crosair 1000w power supply,image/psu.jpg
+4WESD,PC case 3,116.99,8,clear pc case,image/tower3.jpg
+W3QS1,PC case 2,70.0,13,PC case two,image/tower2.jpg
+21HVN,PC case 1,109.99,13,basic pc case,image/tower.jpg
+1GRA9,Olympus camera,795.99,18,Olympus Camera,image/olympus.jpg
+YU2ED,MSI motherboard,149.99,7,MSI motherboard,image/msi.jpg
+INTE3,intel i7,429.0,4,intel i7-8700k,image/i7.jpg
+GUI12,Guitar,5893.0,12,,image/guitar.jpg
+RE372,disc drive,209.99,10,Disc drive with blue-ray / cd-r / rw,image/cddvd.jpg
+3HV21,cooling,209.99,5,RGB liquid cooling,image/liquid.jpg
+1E3R8,Cannon Camera,899.99,5,Cannon mirrorless camera,image/cannon.jpg
+23WR2,ASUS motherboard,109.99,6,asus motherboard,image/ASUS.jpg
+SEW3E,AMD Ryzen 7 2700X 8-Core,449.99,4,AMD Ryzen 7 2700X 8-Core 16-Thread Processor,image/ryzen.jpg
+GH32Y,AMD RX 580 4GB,399.99,35,GPU AMD RX 580 4GB,image/amd.jpg
+UH96Y,16GB ddr4 ram,89.99,5,16gb drr4 ram,image/ram.jpg
+KAU78,1080TI,799.99,1,Geforce GTX 1080TI,image/1080ti.jpg
+NVGE6,1070ti,569.99,10,Nvidia Gefore 1070ti,image/1070ti.jpg
+wetrhfg,3456yjnhg,345.0,34,r4efgbv ,image/puppy.jpg
+wetrhfg,3456yjnhg,345.0,34,r4efgbv ,image/puppy.jpg
